@@ -1,0 +1,89 @@
+1. O que é Validação no contexto de testes de software?
+A) Processo de corrigir bugs no código
+B) Execução prática de testes automatizados
+C) Processo que garante que o software atende aos requisitos do cliente
+D) Análise da performance do sistema
+
+2. Testes de software têm como objetivo principal:
+A) Adicionar novas funcionalidades
+B) Reduzir o número de usuários
+C) Garantir a conformidade com os requisitos e identificar defeitos
+D) Otimizar o design visual da interface
+
+3. O teste de unidade tem como foco:
+A) Verificar a integração entre módulos
+B) Validar a interface com o usuário
+C) Avaliar componentes individuais do código
+D) Testar o software em ambiente de produção
+
+4. Qual teste verifica a comunicação entre diferentes módulos?
+A) Teste de Sistema
+B) Teste de Integração
+C) Teste de Unidade
+D) Teste de Segurança
+
+5. O teste de aceitação é realizado para:
+A) Corrigir vulnerabilidades de segurança
+B) Validar se o sistema atende aos requisitos do usuário
+C) Medir o tempo de resposta do sistema
+D) Avaliar a compatibilidade entre navegadores
+
+6. Teste de desempenho avalia:
+A) Segurança do banco de dados
+B) Eficiência do sistema sob diferentes condições
+C) Qualidade da experiência do usuário
+D) Integração entre APIs
+
+7. Qual dos seguintes é um exemplo de teste não funcional?
+A) Teste de Unidade
+B) Teste de Integração
+C) Teste de Aceitação
+D) Teste de Usabilidade
+
+8. O que diferencia o teste manual do automatizado?
+A) Manual usa código, automatizado não
+B) Manual é mais eficiente
+C) Manual é executado por humanos; automatizado usa ferramentas e scripts
+D) Automatizado só funciona com IA
+
+9. Em TDD (Test-Driven Development), qual é a ordem correta do processo?
+A) Refactor → Green → Red
+B) Red → Green → Refactor
+C) Green → Red → Refactor
+D) Red → Refactor → Green
+
+10. O BDD (Behavior-Driven Development) se diferencia do TDD por:
+A) Exigir mais testes automatizados
+B) Focar na cobertura de código
+C) Usar linguagem natural para descrever cenários de teste
+D) Exigir que os testes sejam executados por usuários finais
+
+11. Qual ferramenta é usada para testes unitários em Java?
+A) Selenium
+B) JUnit
+C) JMeter
+D) OWASP ZAP
+
+12. Selenium é uma ferramenta indicada para:
+A) Testes de segurança
+B) Testes de desempenho
+C) Testes de interface web
+D) Testes manuais
+
+13. O ambiente de homologação serve para:
+A) Testar código recém-escrito
+B) Validar o sistema em um ambiente semelhante ao de produção
+C) Corrigir falhas de segurança
+D) Realizar testes em tempo real com usuários
+
+14. A "taxa de cobertura de código" mede:
+A) O número de usuários impactados por bugs
+B) O tempo necessário para implementar uma função
+C) A quantidade de código que foi testada
+D) A proporção de testes automatizados
+
+15. Qual é o objetivo dos relatórios de teste?
+A) Criar gráficos de desempenho
+B) Documentar os testes, erros encontrados e ações corretivas
+C) Substituir a fase de desenvolvimento
+D) Validar o código-fonte antes da codificação

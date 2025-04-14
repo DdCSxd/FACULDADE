@@ -1,0 +1,89 @@
+1. O que é Projeto de Software?
+A) Processo de codificação de funcionalidades
+B) Processo de definir requisitos de negócio
+C) Processo de definir arquitetura, componentes e interfaces do sistema
+D) Processo de realizar testes automatizados
+
+2. Qual dos seguintes NÃO é um objetivo do projeto de software?
+A) Garantir reutilização de componentes
+B) Minimizar custos e tempo
+C) Aumentar o acoplamento entre módulos
+D) Facilitar manutenção e escalabilidade
+
+3. Modularidade refere-se à:
+A) Exclusão de funcionalidades para simplificar o sistema
+B) Criação de uma única unidade de software
+C) Divisão do software em módulos independentes
+D) Redução do tempo de execução
+
+4. Qual é a combinação ideal segundo os princípios de design?
+A) Alto acoplamento e alta coesão
+B) Baixo acoplamento e alta coesão
+C) Baixo acoplamento e baixa coesão
+D) Alto acoplamento e baixa coesão
+
+5. O Princípio de Responsabilidade Única (SRP) significa que:
+A) Um sistema deve ter uma única funcionalidade
+B) Cada módulo deve ser fechado para alterações
+C) Cada classe deve ter apenas uma responsabilidade
+D) O código deve ser escrito por apenas um desenvolvedor
+
+6. O que diz o Princípio Aberto/Fechado (OCP)?
+A) Interfaces devem ser amplas e reutilizáveis
+B) Um sistema deve estar aberto para modificação constante
+C) Classes devem ser herdadas livremente
+D) Módulos devem estar abertos para extensão, mas fechados para modificação
+
+7. No contexto de arquitetura de software, a arquitetura monolítica é caracterizada por:
+A) Divisão do sistema em vários microserviços
+B) Organização do software em camadas
+C) Desenvolvimento do sistema como uma única unidade
+D) Separação entre lógica de negócios e dados
+
+8. Qual estilo arquitetural separa o sistema em apresentação, lógica de negócio e dados?
+A) Monolítica
+B) Microservices
+C) Camadas
+D) EDA
+
+9. Qual padrão arquitetural é baseado em eventos?
+A) MVC
+B) SOA
+C) Monolítica
+D) EDA
+
+10. O padrão Singleton é usado para:
+A) Criar múltiplas instâncias de uma classe
+B) Substituir métodos de forma dinâmica
+C) Garantir que uma classe tenha apenas uma instância
+D) Notificar objetos observadores
+
+11. O padrão Observer permite:
+A) Geração de interfaces dinâmicas
+B) A substituição de classes base
+C) Notificação automática de mudanças de estado
+D) Criação de objetos sem classe concreta
+
+12. A UML é usada para:
+A) Refatoração de código
+B) Testes de software
+C) Modelagem visual de sistemas
+D) Programação orientada a eventos
+
+13. As ferramentas CASE servem para:
+A) Automatizar a codificação de testes
+B) Ajudar na engenharia reversa
+C) Automatizar o design e modelagem do software
+D) Documentar a execução do código
+
+14. Complexidade ciclomática mede:
+A) A aderência à arquitetura
+B) A quantidade de módulos
+C) A quantidade de código morto
+D) A complexidade lógica do código
+
+15. Refatoração contínua tem como objetivo principal:
+A) Adicionar novas funcionalidades
+B) Aumentar o número de linhas de código
+C) Garantir legibilidade e eficiência
+D) Criar novos padrões de projeto
